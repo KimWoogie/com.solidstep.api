@@ -1,6 +1,7 @@
 package com.solidstep.api.ssr.core;
 
 import com.solidstep.api.ssr.apis.SSRApiHandler;
+import com.solidstep.api.ssr.apis.SSRApis;
 
 public class SSRApiFactory {
 	
